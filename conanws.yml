@@ -1,0 +1,13 @@
+packages:
+  - path: ai
+    ref: ai/1.0
+  - path: engine
+    ref: engine/1.0
+  - path: game
+    ref: game/1.0
+  - path: graphics
+    ref: graphics/1.0
+  - path: mapviewer
+    ref: mapviewer/1.0
+  - path: mathlib
+    ref: mathlib/1.0

@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "ai"
+		},
+		{
+			"path": "engine"
+		},
+		{
+			"path": "game"
+		},
+		{
+			"path": "graphics"
+		},
+		{
+			"path": "mapviewer"
+		},
+		{
+			"path": "mathlib"
+		},
+		{
+			"path": "conf"
+		},
+		{
+			"path": "products"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
