@@ -1,13 +1,25 @@
 packages:
   - path: ai
     ref: ai/1.0
+    remote: git@github.com:theo-dep-bo/conanci_ai.git
   - path: engine
     ref: engine/1.0
+    remote: git@github.com:theo-dep-bo/conanci_engine.git
   - path: game
     ref: game/1.0
+    remote: git@github.com:theo-dep-bo/conanci_game.git
   - path: graphics
     ref: graphics/1.0
+    remote: git@github.com:theo-dep-bo/conanci_graphics.git
   - path: mapviewer
     ref: mapviewer/1.0
+    remote: git@github.com:theo-dep-bo/conanci_mapviewer.git
   - path: mathlib
     ref: mathlib/1.0
+    remote: git@github.com:theo-dep-bo/conanci_mathlib.git
+
+extras:
+  - path: conf
+    remote: git@github.com:theo-dep-bo/conanci_conf.git
+  - path: products
+    remote: git@github.com:theo-dep-bo/conanci_products.git
