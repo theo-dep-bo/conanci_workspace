@@ -1,2 +1,13 @@
 build
 CMakeUserPresets.json
+
+ai/
+conf/
+engine/
+game/
+graphics/
+mapviewer/
+mathlib/
+products/
+
+conan_az_server/

@@ -26,6 +26,9 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "conan_az_server"
 		}
 	],
 	"settings": {}
